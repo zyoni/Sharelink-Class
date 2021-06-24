@@ -1,8 +1,5 @@
 # Sharelink Assignment :rocket:
 
-> “Never memorize something that you can look up.”
-> ― Albert Einstein
-
 # tables
 
 | Done? | Task                       | Priority | Estimated Time |
