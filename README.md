@@ -19,11 +19,31 @@ The purpose of this repository is to have a series of jest examples to reference
 ### How to run this package
 
 ```
-npm install
+cd backend
 ```
 
 ```
-node controller.js
+npm install
+```
+
+Create database (configure knex.js file)
+
+```
+knex migrate:latest
+```
+
+```
+nodemon app.js
+```
+
+Change directory into frontend
+
+```
+cd ..
+cd frontend
+npm install
+npm start
+
 ```
 
 ### Daily Stand Up :hourglass:
