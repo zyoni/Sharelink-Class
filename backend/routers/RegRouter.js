@@ -15,6 +15,7 @@ class RegRouter {
 
   post(req, res) {
     console.log("reached reg backend");
+    console.log(req.body);
     return this.regService
       .register(req.body)
       .then((token) => res.json(token))
