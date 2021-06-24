@@ -1,13 +1,13 @@
 # Sharelink Assignment :rocket:
 
-# tables
+## Checklist 
 
 | Done? | Task                       | Priority | Estimated Time |
 | ----- | -------------------------- | :------: | :------------: |
 |       | Create backend             |    M     |    30 mins     |
 |       | Create frontend components |    M     |    30 mins     |
-|       | Create redux               |    M     |    30 mins     |
-|       | Create backend             |    M     |    30 mins     |
+|       | Identify what needs dispatching               |    M     |    30 mins     |
+|       | Identify the states             |    M     |    30 mins     |
 
 ## Purpose :dark_sunglasses:
 
